@@ -1,5 +1,4 @@
-# MIE1624 Assignment 2
-Samuel Atkins - 1002951754
+# Data Science Salary Prediction: Logistic Regression With Grid-Search
 
 
 ```python
